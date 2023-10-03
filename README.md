@@ -10,7 +10,7 @@ Shows the timestamp indicating when the data was last updated.
 
 ### Usage
 - #### Clone the repository:
-        $ git clone https://github.com/yourusername/carpark-availability-web-app.git
+        $ git clone https://github.com/davidyapcc/qashier2.git
 - #### Open `index.html` in your web browser.
 
 The web app will fetch and display the car park availability data.
